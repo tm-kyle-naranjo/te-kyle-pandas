@@ -121,6 +121,10 @@ The data wrangling process, implemented in `scratch_poc.ipynb`, involves three m
      - Formats 'hours' column by appending 'hr' to each value
      - Capitalizes user names for consistency
 
+Shown below is the screenshot of the output of df1:
+
+![df1](images/df-1.png)
+
 2. **DataFrame 2 (df2)**: Weekly Project Hours by User
    - Purpose: Offers a snapshot of project hours for a specific week
    - Process:
@@ -130,6 +134,10 @@ The data wrangling process, implemented in `scratch_poc.ipynb`, involves three m
      - Creates a pivot table with projects as rows and users as columns
      - Fills missing values with 0 for completeness
 
+Shown below is the screenshot of the output of df2:
+
+![df2](images/df-2.png)
+
 3. **DataFrame 3 (df3)**: Annual Project Summary
    - Purpose: Summarizes project data for an entire year
    - Process:
@@ -137,6 +145,10 @@ The data wrangling process, implemented in `scratch_poc.ipynb`, involves three m
      - Filters data for the year 2017
      - Aggregates data by project
      - Calculates total hours and unique user count for each project
+
+Shown below is the screenshot of the output of df3:
+
+![df3](images/df-3.png)
 
 The wrangling process demonstrates the use of various pandas operations including data filtering, grouping, aggregation, and pivot tables, showcasing the versatility of the library in handling complex data transformations.
 
@@ -153,3 +165,11 @@ pytest tests
 ```
 
 This will execute the tests and provide feedback on the results.
+
+Shown below is the screenshot of the output of the tests:
+
+![tests](images/test-results.png)
+
+In addition, the `test_poc.ipynb` notebook was created to test the outputs of the `scratch_poc.ipynb` notebook. This notebook is located in the `src` directory. Shown below is the screenshot of the output of the `test_poc.ipynb` notebook:
+
+![test_poc](images/assertion-results.png)
