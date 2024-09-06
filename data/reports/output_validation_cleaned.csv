@@ -1,0 +1,5 @@
+validation_type,validation_remarks
+Column Presence,All required columns are present and properly named
+Hours Validation,All 'hours' values are valid
+Timestamp Format,"Invalid timestamps: ['Row 2: Convertible if changed to English', 'Row 6: Convertible if changed to English', 'Row 10: Invalid type: float', 'Row 11: Invalid type: float', 'Row 12: Invalid type: float', 'Row 13: Invalid type: float', 'Row 16: Invalid type: float', 'Row 25: Invalid type: float', 'Row 26: Invalid type: float', 'Row 27: Invalid type: float', 'Row 28: Invalid type: float', 'Row 49: Not convertible', 'Row 52: Convertible if changed to English', 'Row 73: Not convertible', 'Row 78: Invalid type: float', 'Row 79: Invalid type: float', 'Row 80: Invalid type: float', 'Row 83: Convertible if changed to English', 'Row 85: Invalid type: float', 'Row 94: Convertible if changed to English', 'Row 101: Convertible if changed to English']"
+Null Values Check,"Missing or null values found in rows: [10, 11, 12, 13, 16, 20, 25, 26, 27, 28, 78, 79, 80, 85, 87, 94, 99]"

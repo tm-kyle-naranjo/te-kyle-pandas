@@ -1,0 +1,106 @@
+,user,timestamp,hours,project
+3833,stannis,2018-10-02 00:00:00 UTC,0.47,project-10
+3390,tyrion,2018-10-08 00:00:00 UTC,3.22,learning
+14661,tormund,14 февраля 2018 13:08,1,learning
+10007,talisa,2018-07-09 00:00:00 UTC,0.5,opsandadmin
+15120,littlefinger,2018-01-29 00:00:00 UTC,5,opsandadmin
+12098,theon,2018-05-15 14:19:54.000482 UTC,3,project-20
+14457,littlefinger,22 февраля 2018 11:53,1,opsandadmin
+17441,jorah,2017-10-17 11:13:04.000153 UTC,0.5,datastorytelling
+9551,khal,2018-07-16 09:53:56.000331 UTC,5,project-10
+9455,varys,2018-07-17 00:00:00 UTC,2,project-10
+16709,,,0.5,opsandadmin
+10871,,,1,transit
+3809,,,1.5,project-64
+15470,,,5,project-48
+49,jaime,2018-11-26 12:11:58.0359 UTC,0.57,opsandadmin
+3956,bronn,2018-10-01 00:00:00 UTC,1,project-43
+1620,bronn,,1.5,website
+10295,davos,2018-07-03 15:39:05.000494 UTC,1.5,project-29
+13483,littlefinger,2018-04-05 10:53:25.000024 UTC,4,cultureandmanagement
+17346,ned,10/21/2017 03:13 PM,0.5,project-37
+15857,robert,2017-12-20 14:20:25.00064 UTC,1,
+1026,catelyn,2018-11-09 01:57:43.1381 UTC,0.25,opsandadmin
+12641,theon,2018-04-27 00:00:00 UTC,4.5,project-65
+1031,joffrey,2018-11-09 01:10:31.1379 UTC,0.25,bizdev
+3132,sansa,2018-10-10 10:19:05.0001 UTC,2.7,project-25
+4253,,,0.05,project-00
+16732,,,2,engineering
+9421,,,0.5,bizdev
+13676,,,6.5,opsandadmin
+17662,robert,2017-10-10 00:00:00 UTC,0.5,bizdev
+8323,khal,2018-08-02 00:00:00 UTC,4,project-10
+14295,jorah,2018-03-05 10:50:04.000244 UTC,2,opsandadmin
+19781,davos,2017-07-31 08:47:52.127375 UTC,1,opsandadmin
+14632,davos,2018-02-15 09:56:12.000246 UTC,6,project-40
+8191,viserys,2018-08-03 10:57:53.000061 UTC,1.17,transit
+16043,robert,2017-12-14 00:00:00 UTC,2,opsandadmin
+14028,jorah,2018-03-16 02:07:01.000016 UTC,0.75,project-65
+16936,ned,2017-11-09 11:10:07.000015 UTC,1,bizdev
+13372,hound,2018-04-10 10:37:08.000334 UTC,1,workshops
+1093,jon,2018-11-08 00:00:00 UTC,0.25,cultureandmanagement
+3386,tyrion,2018-10-08 00:00:00 UTC,0.53,bizdev
+17478,robert,2017-10-16 10:09:05.00013 UTC,1,bizdev
+5417,robb,2018-09-12 10:01:28.0001 UTC,2,project-01
+20270,jaime,2017-07-06 18:50:21.575464 UTC,7,project-13
+18711,jorah,2017-09-06 13:48:47.000285 UTC,2.5,project-06
+12000,ned,2018-05-17 13:25:32.000392 UTC,1.5,bizdev
+197,stannis,11/22/2018 12:00 AM,0.6,project-10
+12946,theon,2018-04-19 13:51:56.000772 UTC,6,project-68
+7578,shae,2018-08-13 14:01:16.000183 UTC,0.5,opsandadmin
+17878,jaime,10/03/2017 9:10,4,project-47
+6948,daenerys,2018-08-22 11:29:59.0001 UTC,1.5,learning
+20382,littlefinger,2017-07-03 11:33:34.206073 UTC,1.5,project-13
+1512,jorah,31 октября 2018 11:45,0.5,opsandadmin
+19716,ramsay,2017-08-01 11:30:33.636381 UTC,4,project-13
+6737,sansa,2018-08-24 12:57:26.0001 UTC,2.25,bizdev
+14400,theon,02/26/2018 02:05 PM,5,workshops
+16968,ned,2017-11-08 10:19:50.000319 UTC,0.5,project-55
+17821,ramsay,2017-10-04 10:48:00.000113 UTC,4.25,project-48
+5761,daenerys,2018-09-07 12:28:40.0001 UTC,4.5,project-51
+12203,gendry,2018-05-11 07:39:17.000288 UTC,2,project-68
+12644,catelyn,2018-04-27 00:00:00 UTC,6.5,datastorytelling
+738,tyrion,2018-11-14 00:00:00 UTC,2.13,learning
+2893,ned,2018-10-12 11:22:30.0001 UTC,4,events
+3066,daenerys,2018-10-11 00:00:00 UTC,0.5,project-51
+14300,jaime,2018-03-05 10:24:49.000185 UTC,1,hiring
+9409,catelyn,07/17/2018 01:00 PM,0.22,project-38
+2191,jon,2018-10-22 13:14:41.0001 UTC,0.25,project-25
+17314,jaime,2017-10-23 12:22:58.000355 UTC,2,bizdev
+14319,shae,2018-03-05 00:00:00 UTC,7,project-30
+7202,viserys,2018-08-17 10:30:37.0001 UTC,0.83,opsandadmin
+17453,shae,2017-10-17 09:00:09.000333 UTC,3,learning
+264,theon,2018-11-21 14:23:11.0277 UTC,0.5,blogideas
+15198,theon,01/24/2018 10:02 AM,7.5,project-40
+2905,theon,10/12/2018 11:15,4,blogideas
+17293,jorah,2017-10-24 10:27:01.000008 UTC,10,workshops
+10327,catelyn,2018-07-03 10:18:16.000315 UTC,0.3,project-10
+4853,catelyn,2018-09-19 12:07:49.0001 UTC,1.8,project-00
+1805,davos,2018-10-26 00:00:00 UTC,0.75,project-65
+15226,ned,,1,bizdev
+7728,stannis,,0.78,learning
+12557,ned,,0.5,opsandadmin
+15876,brienne,2017-12-20 00:00:00 UTC,1,workshops
+11254,ned,2018-06-10 07:36:32.000034 UTC,2,learning
+20497,robert,4 октября 2010 00:00,1.5,bizdev
+8633,sansa,2018-07-27 15:47:30.000117 UTC,2,learning
+2842,robert,,0.5,opsandadmin
+12927,gendry,2018-04-20 09:35:40.000446 UTC,1.25,project-68
+16486,jorah,2017-11-28 10:45:12.00029 UTC,2,
+8744,sansa,2018-07-26 15:30:25.000025 UTC,2,learning
+2096,bran,2018-10-23 09:34:19.0001 UTC,1.43,project-25
+12470,bronn,2018-05-03 08:50:42.000102 UTC,1.5,project-55
+10338,viserys,2018-07-03 10:13:40.000292 UTC,0.5,learning
+15312,davos,2018-01-19 10:16:02.000305 UTC,0.5,workshops
+5791,tyrion,2018-09-07 00:00:00 UTC,0.25,bizdev
+20044,,19 июля 2017 17:03,0.5,cultureandmanagement
+16816,jaime,2017-11-17 08:38:19.000266 UTC,8,bizdev
+8725,jorah,2018-07-26 16:49:25.000449 UTC,4.5,project-27
+13423,joffrey,2018-04-06 16:02:48.000107 UTC,8.5,project-00
+8238,varys,2018-08-02 15:42:49.000495 UTC,1,cultureandmanagement
+17659,,2017-10-10 00:00:00 UTC,7,
+12098,theon,2018-05-15 14:19:54.000482 UTC,3,project-20
+14457,littlefinger,22 февраля 2018 11:53,1,opsandadmin
+17441,jorah,2017-10-17 11:13:04.000153 UTC,0.5,datastorytelling
+9551,khal,2018-07-16 09:53:56.000331 UTC,5,project-10
+9455,varys,2018-07-17 00:00:00 UTC,2,project-10
